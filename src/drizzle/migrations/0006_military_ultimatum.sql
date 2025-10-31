@@ -1,0 +1,1 @@
+ALTER TABLE "hostel_owners" ADD COLUMN "updated_at" timestamp DEFAULT now();

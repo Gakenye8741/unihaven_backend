@@ -1,0 +1,69 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1761779281182,
+      "tag": "0000_charming_peter_quill",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1761780295329,
+      "tag": "0001_empty_warbound",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1761783086648,
+      "tag": "0002_many_the_santerians",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1761884816954,
+      "tag": "0003_red_jack_flag",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1761885177021,
+      "tag": "0004_overjoyed_slipstream",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1761886547410,
+      "tag": "0005_nice_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1761888048443,
+      "tag": "0006_military_ultimatum",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1761918363217,
+      "tag": "0007_lethal_omega_red",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1761919292126,
+      "tag": "0008_shiny_selene",
+      "breakpoints": true
+    }
+  ]
+}

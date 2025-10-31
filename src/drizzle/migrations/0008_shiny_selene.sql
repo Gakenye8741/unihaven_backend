@@ -1,0 +1,1 @@
+ALTER TABLE "ads" ADD COLUMN "last_reminder_sent_at" timestamp;
